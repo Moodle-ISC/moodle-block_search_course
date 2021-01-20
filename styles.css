@@ -1,0 +1,10 @@
+#searchform_search {
+    display: table;
+    margin: auto;
+}
+
+#searchform_button {
+    display: table;
+    margin: auto;
+    margin-top: 10px;
+}
